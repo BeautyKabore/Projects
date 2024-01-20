@@ -1,0 +1,123 @@
+Black T-Shirt: $10.99
+White T-Shirt: $10.99
+Gray T-Shirt: $10.99
+Red T-Shirt: $10.99
+Blue T-Shirt: $10.99
+Black Long Sleeve Shirt: $12.99
+White Long Sleeve Shirt: $12.99
+Gray Long Sleeve Shirt: $12.99
+Red Long Sleeve Shirt: $12.99
+Blue Long Sleeve Shirt: $12.99
+Black Polo Shirt: $16.99
+White Polo Shirt: $16.99
+Gray Polo Shirt: $16.99
+Red Polo Shirt: $16.99
+Blue Polo Shirt: $16.99
+Black Dress Shirt: $24.99
+White Dress Shirt: $24.99
+Gray Dress Shirt: $24.99
+Red Dress Shirt: $24.99
+Blue Dress Shirt: $24.99
+Black Hoodie: $19.99
+White Hoodie: $19.99
+Gray Hoodie: $19.99
+Red Hoodie: $19.99
+Blue Hoodie: $19.99
+Black Sweater: $29.99
+White Sweater: $29.99
+Gray Sweater: $29.99
+Red Sweater: $29.99
+Blue Sweater: $29.99
+Black Jeans: $34.99
+Blue Jeans: $34.99
+Black Leggings: $15.99
+Gray Leggings: $15.99
+Black Shorts: $9.99
+Gray Shorts: $9.99
+Red Shorts: $9.99
+Blue Shorts: $9.99
+Black Belt: $6.99
+Brown Belt: $6.99
+Black Beanie: $4.99
+Gray Beanie: $4.99
+Red Beanie: $4.99
+Blue Beanie: $4.99
+Black Dress Pants: $39.99
+Gray Dress Pants: $39.99
+Black Parka: $54.99
+Gray Parka: $54.99
+Black Cardigan: $34.99
+White Cardigan: $34.99
+Gray Cardigan: $34.99
+Black Raincoat: $44.99
+Gray Raincoat: $44.99
+Black Leather Jacket: $74.99
+Brown Leather Jacket: $74.99
+Silver Necklace: $19.99
+Gold Necklace: $29.99
+Silver Bracelet: $12.99
+Gold Bracelet: $19.99
+Silver Earrings: $9.99
+Gold Earrings: $15.99
+Silver Ring: $6.99
+Gold Ring: $12.99
+Black V-Neck Sweater: $24.99
+White V-Neck Sweater: $24.99
+Gray V-Neck Sweater: $24.99
+Red V-Neck Sweater: $24.99
+Blue V-Neck Sweater: $24.99
+Black Tank Top: $8.99
+White Tank Top: $8.99
+Gray Tank Top: $8.99
+Red Tank Top: $8.99
+Blue Tank Top: $8.99
+Black Crop Top: $11.99
+White Crop Top: $11.99
+Gray Crop Top: $11.99
+Red Crop Top: $11.99
+Blue Crop Top: $11.99
+Black Blouse: $19.99
+White Blouse: $19.99
+Gray Blouse: $19.99
+Red Blouse: $19.99
+Blue Blouse: $19.99
+Black Jumpsuit: $29.99
+White Jumpsuit: $29.99
+Gray Jumpsuit: $29.99
+Red Jumpsuit: $29.99
+Blue Jumpsuit: $29.99
+Black High Heels: $24.99
+White High Heels: $24.99
+Gray High Heels: $24.99
+Red High Heels: $24.99
+Blue High Heels: $24.99
+Black Sandals: $14.99
+White Sandals: $14.99
+Gray Sandals: $14.99
+Red Sandals: $14.99
+Blue Sandals: $14.99
+Black Sneakers: $19.99
+White Sneakers: $19.99
+Gray Sneakers: $19.99
+Red Sneakers: $19.99
+Blue Sneakers: $19.99
+Black Dress Shorts: $12.99
+White Dress Shorts: $12.99
+Gray Dress Shorts: $12.99
+Red Dress Shorts: $12.99
+Blue Dress Shorts: $12.99
+Black Sunglasses: $8.99
+White Sunglasses: $8.99
+Gray Sunglasses: $8.99
+Red Sunglasses: $8.99
+Blue Sunglasses: $8.99
+Black Watch: $19.99
+White Watch: $19.99
+Gray Watch: $19.99
+Red Watch: $19.99
+Blue Watch: $19.99
+Black Gloves: $7.99
+White Gloves: $7.99
+Gray Gloves: $7.99
+Red Gloves: $7.99
+Blue Gloves: $7.99
