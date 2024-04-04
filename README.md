@@ -1,2 +1,2 @@
 # Projects
-This Repo contains projects I have worked on.
+This Repo contains past and current projects. 
